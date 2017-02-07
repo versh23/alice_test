@@ -1,0 +1,7 @@
+AppBundle\Entity\Industry:
+    industry_1:
+        name: 'name1'
+    industry_2:
+        name: 'name2'
+    industry_3:
+        name: 'name3'
